@@ -25,6 +25,10 @@
 
 We provide implementations of the Brainfuck language in various programming languages. Each implementation is placed in a folder named after the language, and inside each folder, there are two versions: one that compiles Brainfuck code to the target language, and another that directly executes Brainfuck code and prints the result to the console.
 
+Now, we have finished the implemention of C and C++.
+
+To be continued...
+
 ## Examples
 
 Each directory contains several examples of Brainfuck programs, which are named with the extension of ".bf".
